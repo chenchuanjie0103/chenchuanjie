@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\C#\LambdaAndDelegate\bin\Debug\LambdaAndDelegate.exe.config
+C:\Users\admin\Desktop\C#\LambdaAndDelegate\bin\Debug\LambdaAndDelegate.exe
+C:\Users\admin\Desktop\C#\LambdaAndDelegate\bin\Debug\LambdaAndDelegate.pdb
+C:\Users\admin\Desktop\C#\LambdaAndDelegate\obj\Debug\LambdaAndDelegate.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#\LambdaAndDelegate\obj\Debug\LambdaAndDelegate.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\LambdaAndDelegate\obj\Debug\LambdaAndDelegate.exe
+C:\Users\admin\Desktop\C#\LambdaAndDelegate\obj\Debug\LambdaAndDelegate.pdb

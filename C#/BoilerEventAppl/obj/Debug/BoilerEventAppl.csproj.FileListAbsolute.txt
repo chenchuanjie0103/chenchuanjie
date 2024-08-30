@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\C#\BoilerEventAppl\bin\Debug\BoilerEventAppl.exe.config
+C:\Users\admin\Desktop\C#\BoilerEventAppl\bin\Debug\BoilerEventAppl.exe
+C:\Users\admin\Desktop\C#\BoilerEventAppl\bin\Debug\BoilerEventAppl.pdb
+C:\Users\admin\Desktop\C#\BoilerEventAppl\obj\Debug\BoilerEventAppl.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\BoilerEventAppl\obj\Debug\BoilerEventAppl.exe
+C:\Users\admin\Desktop\C#\BoilerEventAppl\obj\Debug\BoilerEventAppl.pdb
+C:\Users\admin\Desktop\C#\BoilerEventAppl\obj\Debug\BoilerEventAppl.csproj.AssemblyReference.cache

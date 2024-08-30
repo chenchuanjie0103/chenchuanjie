@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\C#\test04\bin\Debug\test04.exe.config
+C:\Users\admin\Desktop\C#\test04\bin\Debug\test04.exe
+C:\Users\admin\Desktop\C#\test04\bin\Debug\test04.pdb
+C:\Users\admin\Desktop\C#\test04\obj\Debug\test04.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#\test04\obj\Debug\test04.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\test04\obj\Debug\test04.exe
+C:\Users\admin\Desktop\C#\test04\obj\Debug\test04.pdb

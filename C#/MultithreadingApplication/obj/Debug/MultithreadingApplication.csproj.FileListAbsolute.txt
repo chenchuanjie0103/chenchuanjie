@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\C#\MultithreadingApplication\bin\Debug\MultithreadingApplication.exe.config
+C:\Users\admin\Desktop\C#\MultithreadingApplication\bin\Debug\MultithreadingApplication.exe
+C:\Users\admin\Desktop\C#\MultithreadingApplication\bin\Debug\MultithreadingApplication.pdb
+C:\Users\admin\Desktop\C#\MultithreadingApplication\obj\Debug\MultithreadingApplication.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#\MultithreadingApplication\obj\Debug\MultithreadingApplication.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\MultithreadingApplication\obj\Debug\MultithreadingApplication.exe
+C:\Users\admin\Desktop\C#\MultithreadingApplication\obj\Debug\MultithreadingApplication.pdb

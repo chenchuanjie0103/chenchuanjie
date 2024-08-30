@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\C#\Test_0812-002\bin\Debug\Test_0812-002.exe.config
+C:\Users\admin\Desktop\C#\Test_0812-002\bin\Debug\Test_0812-002.exe
+C:\Users\admin\Desktop\C#\Test_0812-002\bin\Debug\Test_0812-002.pdb
+C:\Users\admin\Desktop\C#\Test_0812-002\obj\Debug\Test_0812-002.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#\Test_0812-002\obj\Debug\Test_0812-002.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\Test_0812-002\obj\Debug\Test_0812-002.exe
+C:\Users\admin\Desktop\C#\Test_0812-002\obj\Debug\Test_0812-002.pdb
+C:\Users\admin\Desktop\C#\Test_0812-002\bin\Debug\MyCodeLib.dll
+C:\Users\admin\Desktop\C#\Test_0812-002\bin\Debug\MyCodeLib.pdb
+C:\Users\admin\Desktop\C#\Test_0812-002\obj\Debug\Test_0812-002.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\C#\MyCodeLib\bin\Debug\MyCodeLib.dll
+C:\Users\admin\Desktop\C#\MyCodeLib\bin\Debug\MyCodeLib.pdb
+C:\Users\admin\Desktop\C#\MyCodeLib\obj\Debug\MyCodeLib.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\MyCodeLib\obj\Debug\MyCodeLib.dll
+C:\Users\admin\Desktop\C#\MyCodeLib\obj\Debug\MyCodeLib.pdb
+C:\Users\admin\Desktop\C#\MyCodeLib\obj\Debug\MyCodeLib.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\C#\test10\bin\Debug\test10.exe.config
+C:\Users\admin\Desktop\C#\test10\bin\Debug\test10.exe
+C:\Users\admin\Desktop\C#\test10\bin\Debug\test10.pdb
+C:\Users\admin\Desktop\C#\test10\obj\Debug\test10.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\test10\obj\Debug\test10.exe
+C:\Users\admin\Desktop\C#\test10\obj\Debug\test10.pdb
+C:\Users\admin\Desktop\C#\test10\obj\Debug\test10.csproj.AssemblyReference.cache

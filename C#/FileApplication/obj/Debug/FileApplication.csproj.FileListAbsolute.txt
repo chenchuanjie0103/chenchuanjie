@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\C#\FileApplication\bin\Debug\FileApplication.exe.config
+C:\Users\admin\Desktop\C#\FileApplication\bin\Debug\FileApplication.exe
+C:\Users\admin\Desktop\C#\FileApplication\bin\Debug\FileApplication.pdb
+C:\Users\admin\Desktop\C#\FileApplication\obj\Debug\FileApplication.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#\FileApplication\obj\Debug\FileApplication.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\FileApplication\obj\Debug\FileApplication.exe
+C:\Users\admin\Desktop\C#\FileApplication\obj\Debug\FileApplication.pdb

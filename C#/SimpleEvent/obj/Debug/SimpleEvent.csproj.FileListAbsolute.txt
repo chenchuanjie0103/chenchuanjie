@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\C#\SimpleEvent\bin\Debug\SimpleEvent.exe.config
+C:\Users\admin\Desktop\C#\SimpleEvent\bin\Debug\SimpleEvent.exe
+C:\Users\admin\Desktop\C#\SimpleEvent\bin\Debug\SimpleEvent.pdb
+C:\Users\admin\Desktop\C#\SimpleEvent\obj\Debug\SimpleEvent.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#\SimpleEvent\obj\Debug\SimpleEvent.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\SimpleEvent\obj\Debug\SimpleEvent.exe
+C:\Users\admin\Desktop\C#\SimpleEvent\obj\Debug\SimpleEvent.pdb

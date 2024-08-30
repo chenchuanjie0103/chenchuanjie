@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\C#\GenericMethodAppl\obj\Debug\GenericMethodAppl.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#\GenericMethodAppl\obj\Debug\GenericMethodAppl.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\GenericMethodAppl\bin\Debug\GenericMethodAppl.exe.config
+C:\Users\admin\Desktop\C#\GenericMethodAppl\bin\Debug\GenericMethodAppl.exe
+C:\Users\admin\Desktop\C#\GenericMethodAppl\bin\Debug\GenericMethodAppl.pdb
+C:\Users\admin\Desktop\C#\GenericMethodAppl\obj\Debug\GenericMethodAppl.exe
+C:\Users\admin\Desktop\C#\GenericMethodAppl\obj\Debug\GenericMethodAppl.pdb

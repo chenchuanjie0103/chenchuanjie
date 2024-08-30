@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\C#\LibrarayManagement\bin\Debug\LibrarayManagement.exe.config
+C:\Users\admin\Desktop\C#\LibrarayManagement\bin\Debug\LibrarayManagement.exe
+C:\Users\admin\Desktop\C#\LibrarayManagement\bin\Debug\LibrarayManagement.pdb
+C:\Users\admin\Desktop\C#\LibrarayManagement\obj\Debug\LibrarayManagement.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#\LibrarayManagement\obj\Debug\LibrarayManagement.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\LibrarayManagement\obj\Debug\LibrarayManagement.exe
+C:\Users\admin\Desktop\C#\LibrarayManagement\obj\Debug\LibrarayManagement.pdb

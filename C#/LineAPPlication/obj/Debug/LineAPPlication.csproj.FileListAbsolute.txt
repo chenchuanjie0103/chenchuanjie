@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\C#\LineAPPlication\bin\Debug\LineAPPlication.exe.config
+C:\Users\admin\Desktop\C#\LineAPPlication\bin\Debug\LineAPPlication.exe
+C:\Users\admin\Desktop\C#\LineAPPlication\bin\Debug\LineAPPlication.pdb
+C:\Users\admin\Desktop\C#\LineAPPlication\obj\Debug\LineAPPlication.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#\LineAPPlication\obj\Debug\LineAPPlication.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\LineAPPlication\obj\Debug\LineAPPlication.exe
+C:\Users\admin\Desktop\C#\LineAPPlication\obj\Debug\LineAPPlication.pdb

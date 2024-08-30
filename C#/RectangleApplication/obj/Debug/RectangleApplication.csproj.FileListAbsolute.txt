@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\C#\RectangleApplication\bin\Debug\RectangleApplication.exe.config
+C:\Users\admin\Desktop\C#\RectangleApplication\bin\Debug\RectangleApplication.exe
+C:\Users\admin\Desktop\C#\RectangleApplication\bin\Debug\RectangleApplication.pdb
+C:\Users\admin\Desktop\C#\RectangleApplication\obj\Debug\RectangleApplication.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\RectangleApplication\obj\Debug\RectangleApplication.exe
+C:\Users\admin\Desktop\C#\RectangleApplication\obj\Debug\RectangleApplication.pdb

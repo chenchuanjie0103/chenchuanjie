@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\C#\ErrorHandlingApplication\bin\Debug\ErrorHandlingApplication.exe.config
+C:\Users\admin\Desktop\C#\ErrorHandlingApplication\bin\Debug\ErrorHandlingApplication.exe
+C:\Users\admin\Desktop\C#\ErrorHandlingApplication\bin\Debug\ErrorHandlingApplication.pdb
+C:\Users\admin\Desktop\C#\ErrorHandlingApplication\obj\Debug\ErrorHandlingApplication.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#\ErrorHandlingApplication\obj\Debug\ErrorHandlingApplication.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\ErrorHandlingApplication\obj\Debug\ErrorHandlingApplication.exe
+C:\Users\admin\Desktop\C#\ErrorHandlingApplication\obj\Debug\ErrorHandlingApplication.pdb

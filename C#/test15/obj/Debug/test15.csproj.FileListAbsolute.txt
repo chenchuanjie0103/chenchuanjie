@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\C#\test15\bin\Debug\test15.exe.config
+C:\Users\admin\Desktop\C#\test15\bin\Debug\test15.exe
+C:\Users\admin\Desktop\C#\test15\bin\Debug\test15.pdb
+C:\Users\admin\Desktop\C#\test15\obj\Debug\test15.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\test15\obj\Debug\test15.exe
+C:\Users\admin\Desktop\C#\test15\obj\Debug\test15.pdb
